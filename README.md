@@ -1,4 +1,4 @@
-# 📐 Sentence Vector Space Explorer using BAAI Embeddings
+#  Sentence Vector Space Explorer using BAAI Embeddings
 
 This project explores how sentence embeddings behave in vector space using the `BAAI/bge-small-en` model. It allows users to dynamically input sentences and observe how they cluster based on **cosine similarity** and **Euclidean distance**.
 
